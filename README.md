@@ -1,4 +1,10 @@
-# 🎨 Flipart Animation Studio
+
+<p align="center">
+  <img src="FlipArtAnimationStudio.gif" alt="FlipArt Animation Studio" width="700">
+</p>
+
+
+ 🎨 Flipart Animation Studio
 
 **Draw. Animate. Create.**
 
