@@ -1,8 +1,11 @@
-
 <p align="center">
   <img src="FlipArtAnimationStudio.gif" alt="FlipArt Animation Studio" width="700">
 </p>
 
+<p align="center">
+  ✨ <strong>Created entirely in FlipArt Animation Studio V:0.2.4.</strong><br>
+  Even our animated logo was drawn and animated using the application itself.
+</p>
 
  🎨 Flipart Animation Studio
 
